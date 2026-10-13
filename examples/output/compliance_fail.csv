@@ -1,0 +1,12 @@
+rule_id,kind,status,measured,lower,upper,warn_at,limit,basis
+strategy_buyout,band,pass,0.12,0,0.2,0.18,"[0.000000, 0.200000]",NAV plus unfunded divided by total portfolio NAV
+strategy_secondaries,band,pass,0.038,0,0.1,0.09,"[0.000000, 0.100000]",NAV plus unfunded divided by total portfolio NAV
+strategy_co_invest,band,fail,0.18,0,0.08,0.072,"[0.000000, 0.080000]",NAV plus unfunded divided by total portfolio NAV
+vintage_current,band,fail,0.265,0,0.2,0.18,"[0.000000, 0.200000]",NAV plus unfunded divided by total portfolio NAV
+geography_na,band,pass,0.403,0,0.45,0.405,"[0.000000, 0.450000]",NAV plus unfunded divided by total portfolio NAV
+single_manager,concentration,fail,0.28,0,0.18,0.162,"[0.000000, 0.180000]",NAV plus unfunded divided by total portfolio NAV
+single_fund,concentration,fail,0.16,0,0.15,0.135,"[0.000000, 0.150000]",NAV plus unfunded divided by total portfolio NAV
+single_issuer,concentration,fail,0.2749,0,0.16,0.144,"[0.000000, 0.160000]",NAV plus unfunded divided by total portfolio NAV
+side_letter_sector,exclusion,fail,0.16,0,0,0,"[0.000000, 0.000000]",NAV plus unfunded divided by total portfolio NAV
+side_letter_jurisdiction,exclusion,fail,0.16,0,0,0,"[0.000000, 0.000000]",NAV plus unfunded divided by total portfolio NAV
+unfunded_limit,unfunded,pass,0.118,0,0.2,0.18,"[0.000000, 0.200000]",NAV plus unfunded divided by total portfolio NAV

@@ -1,0 +1,81 @@
+[
+  {
+    "id": "strategy_buyout",
+    "kind": "band",
+    "dimension": "strategy",
+    "category": "buyout",
+    "lower": 0.0,
+    "upper": 0.2
+  },
+  {
+    "id": "strategy_secondaries",
+    "kind": "band",
+    "dimension": "strategy",
+    "category": "secondaries",
+    "lower": 0.0,
+    "upper": 0.1
+  },
+  {
+    "id": "strategy_co_invest",
+    "kind": "band",
+    "dimension": "strategy",
+    "category": "co_invest",
+    "lower": 0.0,
+    "upper": 0.08
+  },
+  {
+    "id": "vintage_current",
+    "kind": "band",
+    "dimension": "vintage",
+    "category": 2026,
+    "lower": 0.0,
+    "upper": 0.2
+  },
+  {
+    "id": "geography_na",
+    "kind": "band",
+    "dimension": "geography",
+    "category": "North America",
+    "lower": 0.0,
+    "upper": 0.45
+  },
+  {
+    "id": "single_manager",
+    "kind": "concentration",
+    "dimension": "manager",
+    "upper": 0.18
+  },
+  {
+    "id": "single_fund",
+    "kind": "concentration",
+    "dimension": "fund",
+    "upper": 0.15
+  },
+  {
+    "id": "single_issuer",
+    "kind": "concentration",
+    "dimension": "issuer",
+    "upper": 0.16
+  },
+  {
+    "id": "side_letter_sector",
+    "kind": "exclusion",
+    "dimension": "sector",
+    "excluded": [
+      "thermal_coal"
+    ]
+  },
+  {
+    "id": "side_letter_jurisdiction",
+    "kind": "exclusion",
+    "dimension": "jurisdiction",
+    "excluded": [
+      "Excluded_Jurisdiction"
+    ]
+  },
+  {
+    "id": "unfunded_limit",
+    "kind": "unfunded",
+    "upper": 0.2
+  }
+]

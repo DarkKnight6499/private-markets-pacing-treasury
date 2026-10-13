@@ -1,0 +1,13 @@
+fund,issuer,weight,sector,jurisdiction,economic_exposure
+fund_0,issuer_0,0.7,technology,US,84
+fund_0,shared_issuer,0.3,healthcare,UK,36
+fund_1,issuer_1,0.7,technology,US,49
+fund_1,shared_issuer,0.3,healthcare,UK,21
+fund_2,issuer_2,0.7,technology,US,59.5
+fund_2,shared_issuer,0.3,healthcare,UK,25.5
+fund_3,issuer_3,0.7,technology,US,35
+fund_3,shared_issuer,0.3,healthcare,UK,15
+fund_4,issuer_4,0.7,technology,US,26.6
+fund_4,shared_issuer,0.3,healthcare,UK,11.4
+fund_5,issuer_5,0.7,technology,US,14
+fund_5,shared_issuer,0.3,healthcare,UK,6

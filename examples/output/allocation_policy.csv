@@ -1,0 +1,6 @@
+asset,illiquid,available_liquid_fraction,stressed_outflow_12m_per_nav,max_illiquid_share,fixed_liquidity_need,source_status
+public_equity,False,0.6,0,0.45,0.15,stylized
+public_bonds,False,0.9,0,0.45,0.15,stylized
+private_equity,True,0,0.5,0.45,0.15,stylized
+private_credit,True,0,0.4,0.45,0.15,stylized
+real_assets,True,0,0.45,0.45,0.15,stylized

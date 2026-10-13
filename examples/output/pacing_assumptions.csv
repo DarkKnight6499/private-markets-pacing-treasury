@@ -1,0 +1,3 @@
+scenario,initial_public_nav,target,years,ramp_years,annual_cap,public_growth,life,fund_growth,call_rates,bow
+standard_buyout,1000,0.25,25,4,400,0.05,12,0.12,"(0.25, 0.35, 0.50)",2.5
+feasible_ramp,1000,0.25,25,4,1000,0.05,6,0.1,"(0.5,)",1

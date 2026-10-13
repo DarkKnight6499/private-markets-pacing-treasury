@@ -1,0 +1,7 @@
+strategy,life,growth,call_rates,bow,yield_rate,source_status,fee_carry_assumption
+buyout,12,0.12,"(0.25, 0.35, 0.5)",2.5,0,stylized,embedded in assumed net growth
+venture,14,0.15,"(0.2, 0.3, 0.45)",3,0,stylized,embedded in assumed net growth
+private_credit,8,0.08,"(0.4, 0.5)",1.5,0.06,stylized,embedded in assumed net growth
+real_assets,12,0.09,"(0.35, 0.4)",2.5,0.04,stylized,embedded in assumed net growth
+secondaries,6,0.11,"(0.7, 0.7)",1,0.04,stylized,embedded in assumed net growth
+co_invest,7,0.12,"(1.0,)",2,0,stylized,none

@@ -1,0 +1,7 @@
+fund,manager,strategy,vintage,geography,nav,unfunded,economic_exposure
+fund_0,manager_0,buyout,2024,North America,75,45,120
+fund_1,manager_1,venture,2025,Europe,40,30,70
+fund_2,manager_2,private_credit,2026,North America,65,20,85
+fund_3,manager_3,real_assets,2024,Europe,35,15,50
+fund_4,manager_4,secondaries,2025,North America,30,8,38
+fund_5,manager_5,co_invest,2026,Europe,20,0,20

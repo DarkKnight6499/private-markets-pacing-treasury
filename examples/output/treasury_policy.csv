@@ -1,0 +1,2 @@
+line_limit,repayment_quarters,annual_interest,annual_cash_yield,financed_fraction,buffer_quarters,buffer_fraction,initial_cash,source_status
+30,2,0.07,0.03,0.8,4,0.25,15,stylized
